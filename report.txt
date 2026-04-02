@@ -1,0 +1,31 @@
+====== SYSTEM REPORT ======
+Time: Thu Mar 19 00:34:00 +07 2026
+
+System status:
+[0;32mSTABLE[0m
+
+Load Average:
+ 0.84, 1.56, 2.76
+
+Top Process:
+    PID COMMAND         %CPU %MEM
+  76624 node             0.7  0.0
+  76669 node             0.4  0.0
+  76719 node             0.3  0.0
+    197 node             0.1  0.0
+    108 node             0.1  0.0
+
+Last logs:
+2026-03-19 00:28:33 | CPU:2% | MEM:11% | DISK:9%
+2026-03-19 00:28:36 | CPU:2% | MEM:11% | DISK:9%
+2026-03-19 00:28:39 | CPU:2% | MEM:11% | DISK:9%
+2026-03-19 00:28:42 | CPU:2% | MEM:11% | DISK:9%
+2026-03-19 00:28:45 | CPU:3% | MEM:11% | DISK:9%
+2026-03-19 00:28:48 | CPU:2% | MEM:11% | DISK:9%
+
+Summary:
+CPU avg: 1.85714%
+CPU max: 3%
+CPU min: 2%
+RAM avg: 9.42857%
+DISK avg: 7.71429%
